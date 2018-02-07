@@ -53,5 +53,5 @@ The [AuthedHive] code is freely available and documentation can be found on the 
 [AuthedMine]: https://authedmine.com
 [AuthedHive documentation]: https://coinhive.com/documentation/authedmine
 [CoinHive]: https://coinhive.com
-[Footer]: https://github.com/MaXFalstein/footer-date.js
-[footer-coinhive.js]: https://github.com/MaXFalstein/footer-coinhive.js
+[Footer]: https://github.com/MaXFalstein/footer-date
+[footer-coinhive.js]: https://github.com/MaXFalstein/footer-coinhive

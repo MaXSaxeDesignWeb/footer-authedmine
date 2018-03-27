@@ -1,5 +1,4 @@
 var d = new Date();
-var y = 0;
 var year = d.getFullYear().toString();
 var m = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 var month = m[d.getMonth()];
